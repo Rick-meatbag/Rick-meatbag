@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rick-meatbag
+- 👋 Hi, I’m Rick.
 - 👀 I’m interested in AI 
-- 🌱 I’m currently learning GPT-4, SDXL, Llama
+- 🌱 I’m currently learning GPT-4, SDXL, Llama, Camel, AGI, and Lamb
 
 
 <!---
