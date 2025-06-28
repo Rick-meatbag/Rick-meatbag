@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Rick.
-- 👀 I’m interested in AI 
-- 🌱 I’m currently learning GPT-4, SDXL, Llama, Camel, AGI, and Lamb
+- 👋 Hi, I’m Rick, a humanoid meatsack. 
+- 👀 I’m a fanboy of AI
+- ⏱️ I'm old, but still mildly cool
+- 🌱 I’m currently using Open Source LLMs, SDXL, Llama, Camel, and Lamb
 
 
 <!---
